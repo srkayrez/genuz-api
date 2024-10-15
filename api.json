@@ -1,3 +1,47 @@
 {
-  "content": "SOFTWARE LICENSE AGREEMENT\nThis Software License Agreement (\"Agreement\") is entered into by and between XYZ Software Solutions, Inc. (\"Licensor\") and John Doe Enterprises (\"Licensee\") effective as of the date of execution by both parties.\n\n1. Grant of License\nThe Licensor grants the Licensee a non-exclusive, non-transferable, limited license to use the software product \"SuperApp\" (\"Software\") solely for internal business purposes, subject to the terms and conditions set forth in this Agreement.\n\n2. Scope of Use\nThe Licensee may install and use the Software on no more than 5 devices owned or leased by Licensee. Licensee agrees not to distribute, sublicense, modify, reverse engineer, or disassemble the Software without prior written consent from the Licensor.\n\n3. Ownership\nLicensor retains all ownership, intellectual property rights, and proprietary interests in the Software and its associated documentation. No ownership rights are granted to Licensee.\n\n4. Term\nThis Agreement is effective upon execution and shall remain in effect for a period of 12 months (\"Term\"). The Licensee may renew this Agreement by mutual consent of both parties.\n\n5. Fees and Payment\nLicensee agrees to pay a one-time licensing fee of $5,000 USD and an annual maintenance fee of $1,000 USD during the Term of this Agreement. Payment is due within 30 days of the invoice date. Failure to pay may result in termination of this Agreement.\n\n6. Support and Maintenance\nLicensor agrees to provide technical support and updates for the Software during the Term. Support will be available via email during regular business hours, Monday through Friday, from 9 AM to 5 PM (EST).\n\n7. Confidentiality\nBoth parties agree to keep confidential any information disclosed by the other party that is marked as confidential or would reasonably be understood to be confidential, including the Software, business practices, and customer information.\n\n8. Termination\nThis Agreement may be terminated by either party upon 30 days' written notice for any reason. In the event of Licensee’s breach of this Agreement, Licensor may terminate immediately, without notice. Upon termination, Licensee must cease all use of the Software and destroy any copies in its possession.\n\n9. Limitation of Liability\nLicensor is not liable for any indirect, special, incidental, or consequential damages arising from the use or inability to use the Software, including but not limited to loss of data or loss of profits.\n\n10. Governing Law\nThis Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions.\n\n11. Entire Agreement\nThis Agreement constitutes the entire agreement between the parties and supersedes any prior agreements, communications, or understandings, whether written or oral, concerning the subject matter hereof.\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the effective date.\n\nXYZ Software Solutions, Inc."
+  "license": {
+    "title": "Software License Agreement",
+    "sections": [
+      {
+        "title": "1. Grant of License",
+        "content": "The licensor grants you a limited, non-exclusive, non-transferable, and revocable license to use the software in accordance with the terms of this agreement."
+      },
+      {
+        "title": "2. Restrictions",
+        "content": "You may not modify, reverse engineer, decompile, or disassemble the software, nor attempt to derive the source code of the software, unless explicitly permitted by applicable law."
+      },
+      {
+        "title": "3. Intellectual Property Rights",
+        "content": "The software and any copies that you are authorized to make are the intellectual property of the licensor. The structure, organization, and code of the software are valuable trade secrets of the licensor."
+      },
+      {
+        "title": "4. Termination",
+        "content": "This license is effective until terminated. Your rights under this license will terminate automatically if you fail to comply with any terms of this agreement. Upon termination, you must stop using the software and destroy all copies in your possession."
+      },
+      {
+        "title": "5. Disclaimer of Warranties",
+        "content": "The software is provided 'as is' without warranties of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement."
+      },
+      {
+        "title": "6. Limitation of Liability",
+        "content": "In no event will the licensor be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use of or inability to use the software, even if the licensor has been advised of the possibility of such damages."
+      },
+      {
+        "title": "7. Governing Law",
+        "content": "This agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles."
+      },
+      {
+        "title": "8. Entire Agreement",
+        "content": "This agreement constitutes the entire agreement between you and the licensor and supersedes any prior agreements regarding the subject matter herein."
+      },
+      {
+        "title": "9. Severability",
+        "content": "If any provision of this agreement is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect."
+      },
+      {
+        "title": "10. Contact Information",
+        "content": "For questions about this license agreement, please contact [Contact Information]."
+      }
+    ]
+  }
 }
