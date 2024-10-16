@@ -1,3 +1,4 @@
+"sections" [
       {
         "title": "1. Grant of License",
         "content": "The licensor grants you a limited, non-exclusive, non-transferable, and revocable license to use the software in accordance with the terms of this agreement."
@@ -38,3 +39,4 @@
         "title": "10. Contact Information",
         "content": "For questions about this license agreement, please contact [Contact Information]."
       }
+]
