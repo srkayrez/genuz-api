@@ -1,47 +1,94 @@
 {
   "license": {
-    "title": "Software License Agreement",
-    "sections": [
-      {
-        "title": "1. Grant of License",
-        "content": "The licensor grants you a limited, non-exclusive, non-transferable, and revocable license to use the software in accordance with the terms of this agreement."
-      },
-      {
-        "title": "2. Restrictions",
-        "content": "You may not modify, reverse engineer, decompile, or disassemble the software, nor attempt to derive the source code of the software, unless explicitly permitted by applicable law."
-      },
-      {
-        "title": "3. Intellectual Property Rights",
-        "content": "The software and any copies that you are authorized to make are the intellectual property of the licensor. The structure, organization, and code of the software are valuable trade secrets of the licensor."
-      },
-      {
-        "title": "4. Termination",
-        "content": "This license is effective until terminated. Your rights under this license will terminate automatically if you fail to comply with any terms of this agreement. Upon termination, you must stop using the software and destroy all copies in your possession."
-      },
-      {
-        "title": "5. Disclaimer of Warranties",
-        "content": "The software is provided 'as is' without warranties of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement."
-      },
-      {
-        "title": "6. Limitation of Liability",
-        "content": "In no event will the licensor be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use of or inability to use the software, even if the licensor has been advised of the possibility of such damages."
-      },
-      {
-        "title": "7. Governing Law",
-        "content": "This agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles."
-      },
-      {
-        "title": "8. Entire Agreement",
-        "content": "This agreement constitutes the entire agreement between you and the licensor and supersedes any prior agreements regarding the subject matter herein."
-      },
-      {
-        "title": "9. Severability",
-        "content": "If any provision of this agreement is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect."
-      },
-      {
-        "title": "10. Contact Information",
-        "content": "For questions about this license agreement, please contact [Contact Information]."
-      }
-    ]
+    "en": {
+      "title": "Software License Agreement",
+      "sections": [
+        {
+          "title": "1. Grant of License",
+          "content": "The licensor grants you a limited, non-exclusive, non-transferable, and revocable license to use the software in accordance with the terms of this agreement."
+        },
+        {
+          "title": "2. Restrictions",
+          "content": "You may not modify, reverse engineer, decompile, or disassemble the software, nor attempt to derive the source code of the software, unless explicitly permitted by applicable law."
+        },
+        {
+          "title": "3. Intellectual Property Rights",
+          "content": "The software and any copies that you are authorized to make are the intellectual property of the licensor. The structure, organization, and code of the software are valuable trade secrets of the licensor."
+        },
+        {
+          "title": "4. Termination",
+          "content": "This license is effective until terminated. Your rights under this license will terminate automatically if you fail to comply with any terms of this agreement. Upon termination, you must stop using the software and destroy all copies in your possession."
+        },
+        {
+          "title": "5. Disclaimer of Warranties",
+          "content": "The software is provided 'as is' without warranties of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement."
+        },
+        {
+          "title": "6. Limitation of Liability",
+          "content": "In no event will the licensor be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use of or inability to use the software, even if the licensor has been advised of the possibility of such damages."
+        },
+        {
+          "title": "7. Governing Law",
+          "content": "This agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles."
+        },
+        {
+          "title": "8. Entire Agreement",
+          "content": "This agreement constitutes the entire agreement between you and the licensor and supersedes any prior agreements regarding the subject matter herein."
+        },
+        {
+          "title": "9. Severability",
+          "content": "If any provision of this agreement is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect."
+        },
+        {
+          "title": "10. Contact Information",
+          "content": "For questions about this license agreement, please contact [Contact Information]."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Acordo de Licença de Software",
+      "sections": [
+        {
+          "title": "1. Concessão de Licença",
+          "content": "O licenciante concede a você uma licença limitada, não exclusiva, intransferível e revogável para usar o software de acordo com os termos deste acordo."
+        },
+        {
+          "title": "2. Restrições",
+          "content": "Você não pode modificar, descompilar, desmontar ou tentar derivar o código-fonte do software, a menos que explicitamente permitido pela legislação aplicável."
+        },
+        {
+          "title": "3. Direitos de Propriedade Intelectual",
+          "content": "O software e quaisquer cópias que você está autorizado a fazer são propriedade intelectual do licenciante. A estrutura, organização e código do software são segredos comerciais valiosos do licenciante."
+        },
+        {
+          "title": "4. Rescisão",
+          "content": "Esta licença é eficaz até ser rescindida. Seus direitos sob esta licença serão rescindidos automaticamente se você não cumprir qualquer um dos termos deste acordo. Após a rescisão, você deve parar de usar o software e destruir todas as cópias em sua posse."
+        },
+        {
+          "title": "5. Isenção de Garantias",
+          "content": "O software é fornecido 'no estado em que se encontra', sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando às garantias implícitas de comercialização, adequação a um propósito específico ou não violação."
+        },
+        {
+          "title": "6. Limitação de Responsabilidade",
+          "content": "Em nenhuma circunstância o licenciante será responsável por danos diretos, indiretos, acidentais, especiais ou consequenciais decorrentes do uso ou da impossibilidade de usar o software, mesmo que o licenciante tenha sido avisado da possibilidade de tais danos."
+        },
+        {
+          "title": "7. Lei Aplicável",
+          "content": "Este acordo será regido e interpretado de acordo com as leis de [Sua Jurisdição], sem considerar seus princípios de conflito de leis."
+        },
+        {
+          "title": "8. Acordo Integral",
+          "content": "Este acordo constitui o acordo integral entre você e o licenciante e substitui quaisquer acordos anteriores sobre o assunto aqui tratado."
+        },
+        {
+          "title": "9. Divisibilidade",
+          "content": "Se qualquer disposição deste acordo for considerada inválida ou inexequível, as disposições restantes permanecerão em pleno vigor e efeito."
+        },
+        {
+          "title": "10. Informações de Contato",
+          "content": "Para perguntas sobre este acordo de licença, entre em contato com [Informações de Contato]."
+        }
+      ]
+    }
   }
 }
